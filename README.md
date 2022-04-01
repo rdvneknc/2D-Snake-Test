@@ -1,2 +1,3 @@
 # 2D-Snake-Test
 My 2D Snake game tryout...
+Don't mind this project, it is a quite simple and amateur one ;)
